@@ -3,7 +3,7 @@
 
 Name:          gmetrics
 Version:       0.7
-Release:       0 #2%{?dist}
+Release:       2%{?dist}
 Summary:       Groovy library that provides reports and metrics for Groovy code
 Group:         Development/Java
 License:       ASL 2.0
